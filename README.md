@@ -17,7 +17,7 @@ An automated Python pipeline that pulls live cryptocurrency market data via the 
 ### 🚀 How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/LewisGithu/CoinmarketAPI
    ```
 2. Install dependencies:
    ```bash
