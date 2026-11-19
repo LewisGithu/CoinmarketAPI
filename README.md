@@ -14,13 +14,10 @@ An automated Python pipeline that pulls live cryptocurrency market data via the 
 3. **Automated Runner:** Implemented a timestamped execution loop to append live data snapshots at regular intervals.
 4. **Exploratory Data Analysis:** Visualized percentage change distributions (`percent_change_1h` vs `24h`) using Seaborn.
 
-### 📊 Key Visualizations
-![Crypto Correlation Output](outputs/correlation_matrix.png)
-
 ### 🚀 How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/LewisGithu/CoinmarketAPI
    ```
 2. Install dependencies:
    ```bash
