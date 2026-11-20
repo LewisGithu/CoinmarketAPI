@@ -29,5 +29,5 @@ An automated Python pipeline that pulls live cryptocurrency market data via the 
    ```
 4. Run the script:
    ```bash
-   python coinmarketcap_script.py
+   python coinmarketcap_script.ipynb
    ```
